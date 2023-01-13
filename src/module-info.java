@@ -3,7 +3,6 @@
  */
 /**
  * @author hardik
-
  */
 module TestJava {
 }
